@@ -1,0 +1,7 @@
+name = "KGI"
+uuid = "ef2d5b49-1270-4931-a595-7494af694f37"
+authors = ["Duhyeon Jin <2Strings.dh@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
